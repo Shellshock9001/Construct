@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\page.tsx -> @/lib/agentCore\":{\"id\":\"app\\\\page.tsx -> @/lib/agentCore\",\"files\":[\"static/chunks/_app-pages-browser_src_lib_agentCore_ts.js\"]}}"
